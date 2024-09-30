@@ -1,3 +1,5 @@
+// Bai 10
+// Tran Huu Thanh - 23174800016
 #include <iostream>
 #include <vector>
 #include <string>

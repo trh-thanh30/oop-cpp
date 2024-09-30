@@ -1,3 +1,5 @@
+// Bai 7
+// Tran Huu Thanh - 23174800016
 #include <iostream>
 #include <vector>
 using namespace std;

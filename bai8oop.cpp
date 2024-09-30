@@ -1,6 +1,7 @@
+// Bai 8
+// Tran Huu Thanh - 23174800016
 #include <iostream>
 using namespace std;
-
 struct Fraction
 {
     int numerator;
